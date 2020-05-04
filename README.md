@@ -1,5 +1,4 @@
 # NestJS Video Stream
-=========
 
 I wanted to try out streaming video, so I put this together.
 
